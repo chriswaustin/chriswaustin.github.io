@@ -33,6 +33,10 @@ body, html {
     padding: 0 !important;
 }
 
+body {
+    background-color: #dae5eb;
+}
+
 h1 {
     margin:0;
 }
